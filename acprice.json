@@ -1,0 +1,82 @@
+{
+  "acson": {
+    "brand": "acson",
+    "type": "wall",
+    "values": [
+      {
+        "normal": true,
+        "1.0hp": 1090,
+        "1.5hp": 1400,
+        "2.0hp": 2170,
+        "2.5hp": 2500
+      },
+      {
+        "normal": false,
+        "1.0hp": 1380,
+        "1.5hp": 1700,
+        "2.0hp": 2800,
+        "2.5hp": 3100
+      }
+    ]
+  },
+  "daikin": {
+    "brand": "daikin",
+    "type": "wall",
+    "values": [
+      {
+        "normal": true,
+        "1.0hp": 1180,
+        "1.5hp": 1480,
+        "2.0hp": 2280,
+        "2.5hp": 2580
+      },
+      {
+        "normal": false,
+        "1.0hp": 1470,
+        "1.5hp": 1770,
+        "2.0hp": 2920,
+        "2.5hp": 3180
+      }
+    ]
+  },
+  "panasonic": {
+    "brand": "panasonic",
+    "type": "wall",
+    "values": [
+      {
+        "normal": true,
+        "1.0hp": 1170,
+        "1.5hp": 1520,
+        "2.0hp": 2330,
+        "2.5hp": 2630
+      },
+      {
+        "normal": false,
+        "1.0hp": 1400,
+        "1.5hp": 1730,
+        "2.0hp": 2810,
+        "2.5hp": 3080
+      }
+    ]
+  },
+  "midea": {
+    "brand": "midea",
+    "type": "wall",
+    "values": [
+      {
+        "normal": true,
+        "1.0hp": 850,
+        "1.5hp": 1190,
+        "2.0hp": 1840,
+        "2.5hp": 1300
+      },
+      {
+        "normal": false,
+        "1.0hp": 1120,
+        "1.5hp": 1320,
+        "2.0hp": 1970,
+        "2.5hp": 2620
+      }
+    ]
+  }
+}
