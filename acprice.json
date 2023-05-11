@@ -1,82 +1,66 @@
 {
   "acson": {
-    "brand": "acson",
-    "type": "wall",
-    "values": [
-      {
-        "normal": true,
+    "wall": {
+      "norm": {
         "hp10": 1090,
         "hp15": 1400,
         "hp20": 2170,
         "hp25": 2500
       },
-      {
-        "normal": false,
+      "invert": {
         "hp10": 1380,
         "hp15": 1700,
         "hp20": 2800,
         "hp25": 3100
       }
-    ]
+    }
   },
   "daikin": {
-    "brand": "daikin",
-    "type": "wall",
-    "values": [
-      {
-        "normal": true,
+    "wall": {
+      "norm": {
         "hp10": 1180,
         "hp15": 1480,
         "hp20": 2280,
         "hp25": 2580
       },
-      {
-        "normal": false,
+      "invert": {
         "hp10": 1470,
         "hp15": 1770,
         "hp20": 2920,
         "hp25": 3180
       }
-    ]
+    }
   },
   "panasonic": {
-    "brand": "panasonic",
-    "type": "wall",
-    "values": [
-      {
-        "normal": true,
+    "wall": {
+      "norm": {
         "hp10": 1170,
         "hp15": 1520,
         "hp20": 2330,
         "hp25": 2630
       },
-      {
-        "normal": false,
+      "invert": {
         "hp10": 1400,
         "hp15": 1730,
         "hp20": 2810,
         "hp25": 3080
       }
-    ]
+    }
   },
   "midea": {
-    "brand": "midea",
-    "type": "wall",
-    "values": [
-      {
-        "normal": true,
+    "wall": {
+      "norm": {
         "hp10": 850,
         "hp15": 1190,
         "hp20": 1840,
         "hp25": 1300
       },
-      {
-        "normal": false,
+      "invert": {
         "hp10": 1120,
         "hp15": 1320,
         "hp20": 1970,
         "hp25": 2620
       }
-    ]
+    }
   }
 }
